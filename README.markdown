@@ -1,5 +1,15 @@
-# Javascript Koans - koans to learn Javascript (the good bits) #
+# Some warmup exercises for javascript interviews #
+This isn't my project. It is simply a set of exercises I'm working through 
+to keep my knowledge of javascript releveant. - ARC
 
+
+If would like to see uncompleted exercises, look here:
+  |
+  |
+  |
+  v
+
+# Javascript Koans - koans to learn Javascript (the good bits) #
 Based on Edgecase's fantastic 
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
 Javascript koans is to teach you Javascript programming through
